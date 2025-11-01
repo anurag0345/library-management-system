@@ -45,5 +45,5 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 ## Acknowledgements
 
 - This project was inspired by the need for an efficient library management system.
-- We would like to thank the open-source community for their invaluable contributions.
+- I would like to thank the open-source community for their invaluable contributions.
 
